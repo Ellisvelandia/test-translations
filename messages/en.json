@@ -1,5 +1,24 @@
 {
-  "Index": {
-    "title": "Hello world!"
+  "navbar": {
+    "home": "home",
+    "about": "about",
+    "contact": "contact"
+  },
+  "homepage": {
+    "welcome-message": "welcome , the place wee you need",
+    "topic": "Top getting covered : next JS 13 + i18n",
+    "client-side-component": "The best in the world",
+    "tab-title-home": "Homepage"
+  },
+   "about": {
+    "title": "this is my About page",
+    "tab-litle-contact": "about"
+  },
+   "contact": {
+    "title": "this is my Contact page",
+    "tab-litle-contact": "contact"
+  },
+   "footer": {
+    "description": "this is my footer"
   }
 }

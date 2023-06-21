@@ -1,5 +1,24 @@
 {
-  "Index": {
-    "title": "Hello world!"
+  "navbar": {
+    "home": "Inicio",
+    "about": "acerca de",
+    "contact": "contacto"
+  },
+  "homepage": {
+    "welcome-message": "bienvenido , al lugar que nesecitas",
+    "topic": "Tema cubierto : next JS 13 + i18n",
+    "client-side-component": "el mejor en el mundo",
+    "tab-title-home": "Inicio"
+  },
+  "about": {
+    "title": "Esta es mi pagina ACERCA DE",
+    "tab-litle-contact": "acerca de"
+  },
+  "contact": {
+    "title": "Esta es mi pagina CONTACTO",
+    "tab-litle-contact": "contacto"
+  },
+  "footer": {
+    "description": "Este es mi pie de pagina"
   }
 }
